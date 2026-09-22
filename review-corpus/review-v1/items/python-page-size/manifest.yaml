@@ -1,0 +1,10 @@
+id: python-page-size
+partition: development
+kind: seeded
+source: synthetic
+approval_ref: pilot-pending-human-review
+base_sha: f6e7b200f42c7f61ba34961328b3428e7e379bb6
+head_sha: c1a528e1daedb86ac2d6d0090c372a8524ed914f
+language: python
+diff_size_bucket: small
+difficulty: easy

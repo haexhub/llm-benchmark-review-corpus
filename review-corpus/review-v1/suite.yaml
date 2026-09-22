@@ -1,0 +1,10 @@
+id: review-v1
+status: pilot
+modality: review
+public_schema_version: 1
+description: Synthetic pilot PR fixtures for corpus validation and adapter development.
+partitions:
+  development: 2
+  calibration: 0
+  holdout: 0
+oracle_repository: haexhub/llm-benchmark-review-oracle

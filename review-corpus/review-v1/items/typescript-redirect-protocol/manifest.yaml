@@ -1,0 +1,10 @@
+id: typescript-redirect-protocol
+partition: development
+kind: seeded
+source: synthetic
+approval_ref: pilot-pending-human-review
+base_sha: 84fc218fbcdac6598d0663e18f22176ddbec0039
+head_sha: 2c32c9074d886ace5a4fab637d568aa6398fce0a
+language: typescript
+diff_size_bucket: small
+difficulty: easy
