@@ -1,0 +1,10 @@
+id: vault-sdk-signature-null-empty-collision
+partition: development
+source: public
+approval_ref: vault-sdk@ef8adbc176915a595a332f9bc1382bdfb780eb18
+bundle_sha256: 26e86ec43ff60e031b9b5fd5e0a6c2e98520ade89c4cb5707ed7be89d5817567
+base_sha: 3ed2eab749089a4a0d034a429764c8f012bb7eda
+head_sha: a2dd53ebd238f86f1ea1ce002bcf21bba83b4b64
+language: typescript
+diff_size_bucket: small
+difficulty: medium

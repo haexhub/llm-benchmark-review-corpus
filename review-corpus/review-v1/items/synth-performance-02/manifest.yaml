@@ -1,0 +1,11 @@
+id: synth-performance-02
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 3607c65afd9303b6006cd3ab2dfb5cd19047546c453444b14616f2c52c73bfa9
+base_sha: f7f71e8be986aad3ab362d585e56d17a29031836
+head_sha: 88964c86cbd82e8a5ed6e2ec710cd5db1d02c729
+language: typescript
+diff_size_bucket: small
+difficulty: medium

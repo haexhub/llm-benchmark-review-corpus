@@ -1,0 +1,10 @@
+id: holzi-model-fetch-swallowed-typeerror
+partition: development
+source: public
+approval_ref: holzi-real-bug-ac5da03aa56e6f33f0f1a1a433d32807b73817cb
+bundle_sha256: f59d3582e3e5bc8dc346c8270da095ab4263bc0bb4e24a2c538f1f90d26f23f7
+base_sha: 8b2081d5a98d716f033a455e11f43029ca783a43
+head_sha: cfc66cb91016e7ff88fa506152fb3e09516b4a16
+language: python
+diff_size_bucket: small
+difficulty: easy

@@ -1,0 +1,11 @@
+id: synth-error-handling-10
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 149d6386f601c68808125c7efd0681fc73cf59ef31d0268ed46d330e86d2e80b
+base_sha: 61d13bb111a025257d9b38bd19ee15b8bfe73e76
+head_sha: 9421932141ff9ba26e56cba9bae781f691d950d6
+language: python
+diff_size_bucket: small
+difficulty: medium

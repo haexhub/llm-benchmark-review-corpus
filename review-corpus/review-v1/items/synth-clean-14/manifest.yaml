@@ -1,0 +1,11 @@
+id: synth-clean-14
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 5451e8d6233dc976f780606ca02b51f0cb759ebf47fbd4ed1d3e1a7ccbbfaea9
+base_sha: c984d271e26bdc36dc0fa5290332768217ab82dd
+head_sha: a60e3077af1031d480ad89e3de1613cb90a2acaa
+language: typescript
+diff_size_bucket: medium
+difficulty: medium

@@ -1,0 +1,11 @@
+id: python-cache-miss
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 634fab8df89a2bcefeb693279622ec900e4af089a8145601fc1293187aed3370
+base_sha: 6f45631d2880dbfd8a7065ddcfb472337211c93e
+head_sha: 2b334e4d9b28eb264a196fbaeaea488f2d51ba68
+language: python
+diff_size_bucket: small
+difficulty: easy

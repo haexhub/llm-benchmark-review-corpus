@@ -1,0 +1,11 @@
+id: typescript-weakened-regression-test
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 95d559a51bd01430bcce87ad5227600bba87d97810ae34b38bda28b69d6fd982
+base_sha: f00a5db7c159ec2876760f748e569135944db69c
+head_sha: 3305af146435bed6201b5f28a1e38bd7b6294604
+language: typescript
+diff_size_bucket: small
+difficulty: medium

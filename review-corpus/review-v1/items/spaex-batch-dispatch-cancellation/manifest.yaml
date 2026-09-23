@@ -1,0 +1,11 @@
+id: spaex-batch-dispatch-cancellation
+partition: development
+source: public
+approval_ref: spaex@398c6f398b832abe06276f45a4a6c61941b5a00f (isolated to reduce.py
+  dispatch logic)
+bundle_sha256: 640069265860d1c3186050f6b3380911c9f54c773211c1d07da08363e3eb28e8
+base_sha: b9d6262af1421221f8314d8635c8894961047a36
+head_sha: db08d19a308cb7b0c639f878b8d255ce87a278a0
+language: python
+diff_size_bucket: small
+difficulty: hard

@@ -1,0 +1,11 @@
+id: haex-vault-contact-claims-swallowed-error
+partition: development
+source: public
+approval_ref: haex-vault@66a3f31da7ec9c0bb0a6dce98b57c15747e07102 (loadContactClaimsSafeAsync
+  isolated from a larger UI commit)
+bundle_sha256: 8da2a815c40e72b3617ab123880f6ab2e71e4fae6ecde0809245b2d7006c3cd1
+base_sha: 14eeee1ce5e0a2f6e53d199a3f9b9cd99e60bcb9
+head_sha: 5ebc541d575e301b13039d8fb6b5fff32536f479
+language: typescript
+diff_size_bucket: small
+difficulty: medium

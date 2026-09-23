@@ -1,0 +1,11 @@
+id: haex-vault-capability-silent-downgrade
+partition: development
+source: public
+approval_ref: haex-vault@eaec5f0bebda26797fb9cd62023e3887fb557946 (capabilityToSpaceCap
+  isolated from a larger refactor commit)
+bundle_sha256: 5453bc727ea7b60188c0ab0f80aa642eb9c7279942149718fbd619c2521e9c77
+base_sha: 6ae193fae7374bf4ff0596655c686f5268e43731
+head_sha: 6fa090c40c17bbe670d546ead905c12bc6cfb413
+language: typescript
+diff_size_bucket: small
+difficulty: medium

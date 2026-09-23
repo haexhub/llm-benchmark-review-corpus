@@ -1,11 +1,16 @@
 id: review-v1
-content_digest: 6717f52f91409decc80e659c4566222248855bcadcb2dd78e0e2a51d1f0c1c2a
+content_digest: d9d39366838a15c0d58d2c7a6f0bae35e924e957048489e4a23cf0bb4e4cefbe
 status: pilot
 modality: review
 public_schema_version: 1
-description: Synthetic pilot PR fixtures for corpus validation and adapter development.
+description: Curator-approved v1 development-partition suite. 102 items (82 seeded
+  across correctness/security/performance/error_handling/testing/configuration, 20
+  clean controls), Python and TypeScript. 16 items are real historical bugs (source
+  public, approval_ref cites the originating repo/commit); 86 are synthetic. All
+  Gold labels are decision-ready. Calibration and holdout partitions are not yet
+  split out (all items are partition development).
 partitions:
-  development: 2
+  development: 102
   calibration: 0
   holdout: 0
 oracle_repository: haexhub/llm-benchmark-review-oracle

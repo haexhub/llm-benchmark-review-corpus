@@ -1,7 +1,8 @@
 id: python-page-size
 partition: development
 source: synthetic
-approval_ref: pilot-pending-human-review
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
 bundle_sha256: ea7f1f4663729c8b772487777ceac6b04a870e006b526a3b12edc917615ecc30
 base_sha: f6e7b200f42c7f61ba34961328b3428e7e379bb6
 head_sha: c1a528e1daedb86ac2d6d0090c372a8524ed914f

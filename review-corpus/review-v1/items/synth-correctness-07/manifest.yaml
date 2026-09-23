@@ -1,0 +1,11 @@
+id: synth-correctness-07
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 30ef1a6e55fed0a460d078f98ac44ac52569cca1a13d4e02683264f6f8b424c8
+base_sha: 739f85bee987be6ab6452ccc896b4449163db1bd
+head_sha: 455ff1aeb8992578bb14f0bc2b948a3f9e221f2d
+language: typescript
+diff_size_bucket: small
+difficulty: medium

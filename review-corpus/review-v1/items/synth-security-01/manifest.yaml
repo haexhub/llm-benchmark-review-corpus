@@ -1,0 +1,11 @@
+id: synth-security-01
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 2058959c4618456e7be7f88d1a71e56684a68a1332a593d216eb9e9ff1810f63
+base_sha: af90af4db3a5a0ba9be032e493ab74c4df8238fe
+head_sha: dba021ad8030bd451c5208a8542336aa6762bebf
+language: python
+diff_size_bucket: small
+difficulty: easy

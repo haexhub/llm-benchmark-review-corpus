@@ -1,0 +1,11 @@
+id: typescript-clean-slug-helper
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: fba2afc771cc1682e89fc1ba2ea35ffc133ed26458f085a0d34a248eafabef5e
+base_sha: 5901063ceed67347befa8755834e177874806a88
+head_sha: 952897e507203af4a32e083de14946e6c412abac
+language: typescript
+diff_size_bucket: small
+difficulty: easy

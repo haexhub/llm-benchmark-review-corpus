@@ -1,0 +1,11 @@
+id: vault-sdk-base64-stack-overflow
+partition: development
+source: public
+approval_ref: vault-sdk@42ee0aefa6c000170cd18f13e6b4d061cf867665 (isolated to readFile/writeFile
+  base64 logic)
+bundle_sha256: 50998693571ce40256d37c0e99f0a8f8291139e72d09639276d8b1bad16ded96
+base_sha: f81567560e2bd84e138a1bf37abe938a1db9746e
+head_sha: 5a6fc168d5b902fc74e0d74412da55d0ed8986f6
+language: typescript
+diff_size_bucket: small
+difficulty: medium

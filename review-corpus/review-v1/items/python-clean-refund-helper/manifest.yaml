@@ -1,0 +1,11 @@
+id: python-clean-refund-helper
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: c53c3d1ab44ced53715be6a9075ddbb821eb4974a3f864bf0a2eaffa8a1b1ede
+base_sha: 9a36a4426e55bb90d05a840eeeb0fad37dcd7e3f
+head_sha: 32afaf5101dc1739d5a961c4450ffdbdc3e8fc63
+language: python
+diff_size_bucket: small
+difficulty: easy

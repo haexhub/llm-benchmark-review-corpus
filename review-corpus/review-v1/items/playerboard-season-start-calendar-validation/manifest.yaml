@@ -1,0 +1,12 @@
+id: playerboard-season-start-calendar-validation
+partition: development
+source: public
+approval_ref: playerboard@bf987080e6283c10e4aefdf9b9e747cb2ab4bbd4 (season_start validation
+  ported to a dependency-free equivalent of the real zod schema, since zod isn't available
+  in the sandbox)
+bundle_sha256: 334ecbbaddafc14c63ae03142c41ca30c4c555f77d9702ca882c516ac161392d
+base_sha: de9f4e4d855aaba1747b3e6da5ca597e584d84fa
+head_sha: 82e7b0d484fcdd72c20662abd623846ae4c20b4a
+language: typescript
+diff_size_bucket: small
+difficulty: medium

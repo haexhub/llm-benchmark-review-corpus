@@ -1,0 +1,10 @@
+id: spaex-composer-fragment-limit
+partition: development
+source: public
+approval_ref: spaex@7da874bde3dfe79923055a891529f74ca362bb7b
+bundle_sha256: 826b9b3d097da20b75def720aa1d92aa2637c5d4b894cdf2e80d41575e6a6d25
+base_sha: fe26c847c340d18f288e35fd5bcd33244d40c1c1
+head_sha: 7874b55289bd38a9eef37242b9ae619bf5dbb09b
+language: python
+diff_size_bucket: medium
+difficulty: medium

@@ -1,0 +1,10 @@
+id: holzi-apikey-redaction-regex
+partition: development
+source: public
+approval_ref: holzi-real-bug-c609bf96eb03b65f25d9af78c8b8511d87f67e3e
+bundle_sha256: 9fac3b1165e8ecb7e9069be5b3d43ceac0c903c4997edc06b2d6547bb06856c4
+base_sha: d86f4d8dc04e4049accc48a8caeb596b327537b0
+head_sha: 9c5e099ac08b468e748d94b39d6710290bad0843
+language: python
+diff_size_bucket: small
+difficulty: medium

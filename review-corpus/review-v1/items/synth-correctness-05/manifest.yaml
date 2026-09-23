@@ -1,0 +1,11 @@
+id: synth-correctness-05
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 6d5f23d358e6770545c1203449334acdc12b43cad3122cf056222f45d008ff4a
+base_sha: 87107be1e8407b1d661c27b05bdde92a3f0cf8fb
+head_sha: d1fd8d5c48995e0f7e1fd5b5c79f77cb7a6a1af5
+language: python
+diff_size_bucket: small
+difficulty: easy

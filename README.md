@@ -9,6 +9,10 @@ Decision-grade Oracle material lives in the private companion repository
 `haexhub/llm-benchmark-review-oracle` and is mounted only for post-run
 evaluation.
 
-`review-corpus/review-v1` is a pilot, not a released benchmark suite. Its items
-are synthetic and still require independent curator approval before release.
+`review-corpus/review-v1` has 102 curator-approved items (82 seeded across
+correctness/security/performance/error_handling/testing/configuration, 20 clean
+controls; Python and TypeScript). 16 items are real historical bugs from public
+repositories (see each item's `approval_ref` for the originating commit); 86 are
+synthetic. All Gold labels are decision-ready. It does not yet split out
+calibration or holdout partitions — everything is currently `partition: development`.
 Public development and calibration corpus for reproducible AI code-review benchmarks

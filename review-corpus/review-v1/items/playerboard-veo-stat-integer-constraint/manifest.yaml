@@ -1,0 +1,12 @@
+id: playerboard-veo-stat-integer-constraint
+partition: development
+source: public
+approval_ref: playerboard@a0267b37e9a332794f252a31a0c9cb1512c3c60e (mapAnalysisStatsToRows
+  isolated + ported off zod to a dependency-free equivalent; real commit also touched
+  ~3270 unrelated lines, ignored here)
+bundle_sha256: 74001957c6617b945a1d6545e36145d12364a220aa693a2ef29cc6b9f39bbcd2
+base_sha: 1201cc03c1e0711a8199e7d88f85370d5406d992
+head_sha: 663229df1503501bfcac07e88895f897f96585fa
+language: typescript
+diff_size_bucket: small
+difficulty: medium

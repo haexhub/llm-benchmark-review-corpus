@@ -1,0 +1,11 @@
+id: spaex-orphan-delete-traversal
+partition: development
+source: public
+approval_ref: spaex@ebe567450fa5ea95cdab5dec198c59d8c85f6860 (isolated to assemble.py
+  only)
+bundle_sha256: 2466159d5b6d8e3486dc9b15939b80bfef9cd15247188d39f8bf9d88f492be5d
+base_sha: 764fe8bb77cf7d8c7268ebc4c0bd4f2fd7c710d1
+head_sha: e4ea8867dbc6550e473ec07f6f5fadf31aae8f76
+language: python
+diff_size_bucket: small
+difficulty: hard

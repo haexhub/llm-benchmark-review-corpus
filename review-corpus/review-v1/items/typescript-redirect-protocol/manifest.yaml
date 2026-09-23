@@ -1,7 +1,8 @@
 id: typescript-redirect-protocol
 partition: development
 source: synthetic
-approval_ref: pilot-pending-human-review
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
 bundle_sha256: 9c3a6c4c9db202dfb6271fa5084a69aa1c6e08e8e903ad0af0234a1e38748cce
 base_sha: 84fc218fbcdac6598d0663e18f22176ddbec0039
 head_sha: 2c32c9074d886ace5a4fab637d568aa6398fce0a

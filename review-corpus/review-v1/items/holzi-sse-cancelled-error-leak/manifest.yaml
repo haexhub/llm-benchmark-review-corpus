@@ -1,0 +1,10 @@
+id: holzi-sse-cancelled-error-leak
+partition: development
+source: public
+approval_ref: holzi-real-bug-26a689f7e53bc5c0016825d97a00d7e6811df990
+bundle_sha256: ebf20c894479432bbc015b9711143c1356f3d0cad3c9ab1059050d380107e659
+base_sha: ea769841796c89f0d3ad64927c18d3a783682477
+head_sha: 7772b33c698f8b4b6b614e6a62e3bf1e066d9101
+language: python
+diff_size_bucket: small
+difficulty: hard

@@ -1,0 +1,12 @@
+id: playerboard-magic-link-stale-redirect
+partition: development
+source: public
+approval_ref: playerboard@0b158ce95c0bc86547803f1ddc19b71eb29e2c95 (signInWithMagicLink
+  ported off Nuxt/Supabase auto-imports to a dependency-free equivalent with a stub
+  client)
+bundle_sha256: d291008414604055f881bd7a11bfb4eb4d80c139dd6b7773f70fe033168f2de7
+base_sha: 9631b068902bfc65a2bc411f4f2669abca63a852
+head_sha: 1e9bd1a09f8ebbb62ccb02ff9cc1444f2219cdc0
+language: typescript
+diff_size_bucket: small
+difficulty: easy

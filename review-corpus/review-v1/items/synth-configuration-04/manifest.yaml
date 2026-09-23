@@ -1,0 +1,11 @@
+id: synth-configuration-04
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 92cbad884e8571eb3202d76ce5cfe74790ca559175bc105071ff4a6334dcfded
+base_sha: ad7d643625b5dbfe8daff927e544a90c5e136008
+head_sha: 055bcb21edf2b1009e0d50fa5e94c9481c6d4816
+language: typescript
+diff_size_bucket: small
+difficulty: medium

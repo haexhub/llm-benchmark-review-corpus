@@ -1,0 +1,11 @@
+id: python-swallowed-exception
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 80f1afdf54513f535492325bd91c18fe7b4dc4cfad833aa86bde97d894678b69
+base_sha: b1c9bd8ff93ae6dc4c2e731204e942943428aa68
+head_sha: 9845d2d4e07e1d427cadb010736602495891934f
+language: python
+diff_size_bucket: small
+difficulty: easy

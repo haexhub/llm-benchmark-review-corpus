@@ -1,0 +1,10 @@
+id: holzi-search-and-or-mismatch
+partition: development
+source: public
+approval_ref: holzi-real-bug-02ad277d64b9c3d9eb36d3c34f1185cf83c14401
+bundle_sha256: 47923d9c6e7c74a4cfaf65a9627ed412388737be5a7d44e843f053de36957ca3
+base_sha: d4bab89cf2b950b61ba24bf04e3f3353d9cc0b49
+head_sha: 0a02c57c72c0b298af837c4d242777a0f78643a3
+language: python
+diff_size_bucket: small
+difficulty: hard

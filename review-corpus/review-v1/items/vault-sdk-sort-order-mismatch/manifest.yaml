@@ -1,0 +1,10 @@
+id: vault-sdk-sort-order-mismatch
+partition: development
+source: public
+approval_ref: vault-sdk@b0d1f7245d20f06e13033b4f6dc0995b839a5fae
+bundle_sha256: b4726dac505cde3b3c14de4bcd5582c69e25b45a61254bca200c299077dd2d80
+base_sha: c3e91fe417225fbc482256df377dec33a7536188
+head_sha: 20b04504c0c5bfb3ff4c0574635afbcf6ae025ef
+language: typescript
+diff_size_bucket: small
+difficulty: hard

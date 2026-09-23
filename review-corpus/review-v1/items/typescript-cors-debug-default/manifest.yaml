@@ -1,0 +1,11 @@
+id: typescript-cors-debug-default
+partition: development
+source: synthetic
+approval_ref: curator:haex approved 2026-09-24 (see oracle ground-truth.yaml for evidence
+  digest)
+bundle_sha256: 888dabd2d419b6a3a4b5e653b6ca5aee7b79b81045c9cad9d21ac7e6e603677a
+base_sha: 07ea00aa6ad7cdf4b37b27d21d2bba6668fbf84e
+head_sha: 8ee596512e3b12f9736c204fd891a2459b9f8e1b
+language: typescript
+diff_size_bucket: small
+difficulty: easy
