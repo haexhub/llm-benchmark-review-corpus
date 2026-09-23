@@ -1,6 +1,5 @@
 id: python-page-size
 partition: development
-kind: seeded
 source: synthetic
 approval_ref: pilot-pending-human-review
 bundle_sha256: ea7f1f4663729c8b772487777ceac6b04a870e006b526a3b12edc917615ecc30
